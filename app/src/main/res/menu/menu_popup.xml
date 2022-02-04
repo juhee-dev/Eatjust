@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnB"
+        android:title="아침" />
+    <item
+        android:id="@+id/mnL"
+        android:title="점심" />
+    <item
+        android:id="@+id/mnD"
+        android:title="저녁" />
+</menu>
